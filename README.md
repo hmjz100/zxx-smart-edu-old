@@ -23,17 +23,17 @@
 ## 功能
 ### [国家中小学智慧教育平台](https://basic.smartedu.cn/)
 - 免登录查看
- - 文档（基于 PDFJS）（已支持：所有文档）
- - 单视频（全网首发，支持选择清晰度，基于 Artplayer）（已支持：课后服务、家庭教育、教改经验）
+   - 文档（基于 PDFJS）（已支持：所有文档）
+   - 单视频（全网首发，支持选择清晰度，基于 Artplayer）（已支持：课后服务、家庭教育、教改经验）
 
 - 教材 PDF 原件
- - 舒适阅读
- - 批量下载
- - 切换新旧版本
+   - 舒适阅读
+   - 批量下载
+   - 切换新旧版本
 
 - 单个视频
- - 替换原始基于 Video.JS 的播放器为 Artplayer，支持更多功能
- - 下载视频请使用其他插件（推荐使用[猫抓](https://github.com/xifangczy/cat-catch)，前往 Chrome:[Crx搜搜 网上应用店](https://www.crxsoso.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb)，Firefox:[Crx搜搜 ADD-ONS](https://www.crxsoso.com/firefox/detail/cat-catch) 下载）
+   - 替换原始基于 Video.JS 的播放器为 Artplayer，支持更多功能
+   - 下载视频请使用其他插件（推荐使用[猫抓](https://github.com/xifangczy/cat-catch)，前往 Chrome:[Crx搜搜 网上应用店](https://www.crxsoso.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb)，Firefox:[Crx搜搜 ADD-ONS](https://www.crxsoso.com/firefox/detail/cat-catch) 下载）
 
 - 开启页面隐藏的黑暗模式
 
@@ -41,8 +41,8 @@
 - 顶栏美化毛玻璃（如果支持）（已测试：国家智慧教育公共服务平台、国家中小学智慧教育平台、中国语言文字数字博物馆）
 - 页脚增加一言诗句（如果支持）（已测试：国家智慧教育公共服务平台、国家中小学智慧教育平台、中国语言文字数字博物馆）
 - 增强并美化原有 PDFJS 预览页面（已测试：国家中小学智慧教育平台、中国语言文字数字博物馆）
- - 深色界面 
+   - 深色界面 
 - 增强并美化原有 PDFJS 预览iframe（已测试：国家中小学智慧教育平台、中国语言文字数字博物馆）
- - 网页全屏
- - 下载 PDF
- - 确保舒适地在线看书
+   - 网页全屏
+   - 下载 PDF
+   - 确保舒适地在线看书
